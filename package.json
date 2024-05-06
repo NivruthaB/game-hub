@@ -1,8 +1,8 @@
 {
   "name": "game-hub",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
-  "homepage": "https://NivruthaB.github.io/",
+  "homepage": "https://NivruthaB.github.io/game-hub/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
